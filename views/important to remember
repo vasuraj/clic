@@ -1,0 +1,16 @@
+
+* to view only one selected forecast information
+
+http://localhost/cic_latest/index.php/weather/view_forecast/2013-09-17
+															___________ is selected date for which we want to have 
+																		forecast information.
+
+
+* to view all records in one page
+
+http://localhost/cic_latest/index.php/weather/view_forecast/
+
+
+* to view all pages (with pagination)
+
+http://localhost/cic_latest/index.php/weather/view_forecast/pages/
